@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CompoundViews</string>
+    <string name="sample1">sample1</string>
+    <string name="greet_me">Greet me</string>
+</resources>
